@@ -1,2 +1,3 @@
 Portfolio website by Denis Zaloha 2021
-Усі анімації будуть працювати тільки через live server!!
+This site doesn't done 
+so this is DEMO
